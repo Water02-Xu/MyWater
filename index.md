@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LingChin  
 
 You can use the [editor on GitHub](https://github.com/Water02-Xu/MyWater/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
